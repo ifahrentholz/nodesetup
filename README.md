@@ -9,7 +9,7 @@ Usage
 =====
 
 ```bash
-git clone https://github.com/ifahrentholz/nodesetup && cd nodesetup/ && ./nodesetup
+git clone https://github.com/ifahrentholz/nodesetup && cd nodesetup/ && ./nodesetup.sh
 ```
 
 
