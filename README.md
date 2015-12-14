@@ -21,4 +21,4 @@ NPM Packages to be installed
 - csslint
 - jshint
 - nodemon
-
+- forever
