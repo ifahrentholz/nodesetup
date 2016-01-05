@@ -22,3 +22,4 @@ NPM Packages to be installed
 - jshint
 - nodemon
 - forever
+- npm
