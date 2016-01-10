@@ -1,7 +1,1 @@
-npm install -g eslint
-npm install -g grunt-cli
-npm install -g csslint
-npm install -g jshint
-npm install -g nodemon
-npm install -g forever
-npm install -g npm
+npm install -g eslint grunt-cli csslint jshint nodemon forever npm
