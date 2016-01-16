@@ -17,9 +17,16 @@ NPM Packages to be installed
 ============================
 
 - eslint
-- grunt-cli
 - csslint
 - jshint
+- jasmine
 - nodemon
 - forever
+- grunt-cli
+- webpack
 - npm
+
+
+Todo's
+======
+- make an install script for devDependcies
