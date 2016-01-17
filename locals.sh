@@ -27,6 +27,7 @@ echo ""
 echo "========================================="
 echo "=         Install test modules          ="
 echo "-----------------------------------------"
+echo "* jasmine"
 echo "* karma"
 echo "* karma-jasmine"
 echo "* karma-chrome-launcher"
@@ -38,6 +39,7 @@ echo "* webpack"
 echo "========================================="
 echo ""
 
+npm i -D jasmine
 npm i -D karma
 npm i -D karma-jasmine 
 npm i -D karma-chrome-launcher
@@ -53,6 +55,7 @@ echo ""
 echo "========================================="
 echo "$        Finished installation          $"
 echo "-----------------------------------------"
+echo "* jasmine"
 echo "* webpack"
 echo "* karma"
 echo "* karma-jasmine"
