@@ -23,7 +23,6 @@ echo "* karma-growl-reporter"
 echo "========================================="
 echo ""
 
-
 npm i -D karma
 npm i -D karma-jasmine 
 npm i -D karma-chrome-launcher
