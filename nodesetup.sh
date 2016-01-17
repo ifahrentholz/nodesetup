@@ -44,12 +44,24 @@ echo "-----------------------------------------"
 echo "* grunt-cli"
 echo "* webpack"
 echo "* npm"
+echo "* semantic-release-cli"
 echo "========================================="
 echo ""
 
 npm i -g grunt-cli
 npm i -g webpack
 npm i -g npm
+
+
+echo ""
+echo "========================================="
+echo "=           Release modules             ="
+echo "-----------------------------------------"
+echo "* semantic-release-cli"
+echo "========================================="
+echo ""
+
+npm i -g semantic-release-cli
 
 
 echo ""
