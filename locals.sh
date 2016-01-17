@@ -32,8 +32,9 @@ echo "* karma-jasmine"
 echo "* karma-chrome-launcher"
 echo "* karma-firefox-launcher"
 echo "* karma-safari-launcher"
-echo "* karma-phantomjs-launcher"
 echo "* karma-growl-reporter"
+echo "* karma-webpack"
+echo "* webpack"
 echo "========================================="
 echo ""
 
@@ -43,7 +44,8 @@ npm i -D karma-chrome-launcher
 npm i -D karma-firefox-launcher
 npm i -D karma-safari-launcher
 npm i -D karma-growl-reporter
-npm i -D karma-phantomjs-launcher
+npm i -D karma-webpack
+npm i -D webpack
 
 
 echo ""
@@ -57,8 +59,9 @@ echo "* karma-jasmine"
 echo "* karma-chrome-launcer"
 echo "* karma-firefox-launcher"
 echo "* karma-safari-launcher"
-echo "* karma-phantomjs-launcher"
 echo "* karma-growl-reporter"
+echo "* karma-webpack"
+echo "* webpack"
 echo "========================================="
 echo ""
 echo ""
