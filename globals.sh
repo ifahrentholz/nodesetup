@@ -18,11 +18,12 @@ echo "========================================="
 echo "=         Install test modules          ="
 echo "-----------------------------------------"
 echo "* jasmine"
+echo "* karma-cli"
 echo "========================================="
 echo ""
 
 npm i -g jasmine
-
+npm i -g karma-cli
 
 echo ""
 echo "========================================="
@@ -61,6 +62,7 @@ echo "* eslint"
 echo "* csslint"
 echo "* jshint"
 echo "* jasmine"
+echo "* karma-cli"
 echo "* nodemon"
 echo "* forever"
 echo "* grunt-cli"
