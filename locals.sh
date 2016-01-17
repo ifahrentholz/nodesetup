@@ -1,5 +1,18 @@
 echo ""
 echo "========================================="
+echo "=      Install deps (via homebrew)      ="
+echo "-----------------------------------------"
+echo "* phantomjs"
+echo "========================================="
+echo ""
+
+brew update
+brew upgrade
+brew install phantomjs
+
+
+echo ""
+echo "========================================="
 echo "= Install build tools & package manager ="
 echo "-----------------------------------------"
 echo "* webpack"
