@@ -5,11 +5,19 @@ Easy update your node version an run this script to install all foundation
 npm modules.
 
 
-Usage
-=====
+Install global modules
+======================
 
 ```bash
-git clone https://github.com/ifahrentholz/nodesetup && cd nodesetup/ && ./nodesetup.sh
+git clone https://github.com/ifahrentholz/nodesetup && cd nodesetup/ && ./globals.sh
+```
+
+
+Install local modules
+=====================
+
+```bash
+git clone https://github.com/ifahrentholz/nodesetup && cd nodesetup/ && ./locals.sh
 ```
 
 
