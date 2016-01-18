@@ -54,6 +54,17 @@ npm i -g npm
 
 
 echo ""
+echo "========================================="
+echo "=        Install release modules        ="
+echo "-----------------------------------------"
+echo "* semantic-release-cli
+echo "========================================="
+echo ""
+
+npm i -g semantic-release-cli
+
+
+echo ""
 echo ""
 echo "========================================="
 echo "$        Finished installation          $"
