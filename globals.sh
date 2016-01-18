@@ -57,11 +57,13 @@ echo ""
 echo "========================================="
 echo "=        Install release modules        ="
 echo "-----------------------------------------"
-echo "* semantic-release-cli
+echo "* semantic-release-cli"
+echo "* commitizen"
 echo "========================================="
 echo ""
 
 npm i -g semantic-release-cli
+npm i -g commitizen
 
 
 echo ""
@@ -79,7 +81,8 @@ echo "* forever"
 echo "* grunt-cli"
 echo "* webpack"
 echo "* npm"
-echo "* semantic-release-cli
+echo "* semantic-release-cli"
+echo "* commitizen"
 echo "========================================="
 echo ""
 echo ""
