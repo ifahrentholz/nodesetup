@@ -42,12 +42,14 @@ echo ""
 echo "========================================="
 echo "= Install build tools & package manager ="
 echo "-----------------------------------------"
+echo "* babel-cli"
 echo "* grunt-cli"
 echo "* webpack"
 echo "* npm"
 echo "========================================="
 echo ""
 
+npm i -g babel-cli
 npm i -g grunt-cli
 npm i -g webpack
 npm i -g npm
@@ -78,6 +80,7 @@ echo "* jasmine"
 echo "* karma-cli"
 echo "* nodemon"
 echo "* forever"
+echo "* babel-cli"
 echo "* grunt-cli"
 echo "* webpack"
 echo "* npm"
