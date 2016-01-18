@@ -79,6 +79,7 @@ echo "* forever"
 echo "* grunt-cli"
 echo "* webpack"
 echo "* npm"
+echo "* semantic-release-cli
 echo "========================================="
 echo ""
 echo ""
