@@ -55,6 +55,19 @@ npm i -g npm
 
 
 echo ""
+echo "========================================="
+echo "=        Install release modules        ="
+echo "-----------------------------------------"
+echo "* semantic-release-cli"
+echo "* commitizen"
+echo "========================================="
+echo ""
+
+npm i -g semantic-release-cli
+npm i -g commitizen
+
+
+echo ""
 echo ""
 echo "========================================="
 echo "$        Finished installation          $"
@@ -66,9 +79,12 @@ echo "* jasmine"
 echo "* karma-cli"
 echo "* nodemon"
 echo "* forever"
+echo "* babel-cli"
 echo "* grunt-cli"
 echo "* webpack"
 echo "* npm"
+echo "* semantic-release-cli"
+echo "* commitizen"
 echo "========================================="
 echo ""
 echo ""
