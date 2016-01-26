@@ -9,6 +9,7 @@ echo "========================================="
 echo ""
 
 npm i -g eslint
+npm i -g eslint-plugin-react
 npm i -g csslint
 npm i -g jshint
 
