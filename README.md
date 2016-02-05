@@ -4,29 +4,22 @@ NPM EasyInstall
 Easy update your node version an run this script to install all foundation
 npm modules.
 
-Install Dependencies
-====================
+#####Install Dependencies
 - [Homebrew](http://brew.sh/)
 
-Install global modules
-======================
-
+#####Install global modules
 ```bash
 git clone https://github.com/ifahrentholz/nodesetup && cd nodesetup/ && ./globals.sh
 ```
 
 
-Install local modules
-=====================
-
+#####Install local modules
 ```bash
 git clone https://github.com/ifahrentholz/nodesetup && cd nodesetup/ && ./locals.sh
 ```
 
 
-NPM Packages to be installed
-============================
-
+#####NPM Packages to be installed
 - eslint
 - csslint
 - jshint
@@ -38,6 +31,5 @@ NPM Packages to be installed
 - npm
 
 
-Todo's
-======
+######Todo's
 - make an install script for devDependcies
