@@ -33,11 +33,13 @@ echo "=           Install runners             ="
 echo "-----------------------------------------"
 echo "* nodemon"
 echo "* forever"
+echo "* http-server"
 echo "========================================="
 echo ""
 
 npm i -g nodemon
 npm i -g forever
+npm i -g http-server
 
 
 echo ""
@@ -79,6 +81,7 @@ echo "* jasmine"
 echo "* karma-cli"
 echo "* nodemon"
 echo "* forever"
+echo "* http-server"
 echo "* grunt-cli"
 echo "* npm"
 echo "* semantic-release-cli"
