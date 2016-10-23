@@ -13,6 +13,8 @@ npm i -g eslint
 npm i -g eslint-plugin-react
 npm i -g csslint
 npm i -g jshint
+npm i -g typescript
+npm i -g typings
 
 
 echo ""
@@ -77,6 +79,8 @@ echo "* eslint"
 echo "* eslint-plugin-react"
 echo "* csslint"
 echo "* jshint"
+echo "* typescript"
+echo "* typings"
 echo "* jasmine"
 echo "* karma-cli"
 echo "* nodemon"
