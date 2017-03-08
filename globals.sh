@@ -6,6 +6,8 @@ echo "* eslint"
 echo "* eslint-plugin-react"
 echo "* csslint"
 echo "* jshint"
+echo "* typescript"
+echo "* typings"
 echo "========================================="
 echo ""
 
