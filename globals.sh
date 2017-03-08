@@ -52,11 +52,13 @@ echo "= Install build tools & package manager ="
 echo "-----------------------------------------"
 echo "* grunt-cli"
 echo "* npm"
+echo "* npmrc (manage multiple npmrc configs)"
 echo "========================================="
 echo ""
 
 npm i -g grunt-cli
 npm i -g npm
+npm i -g npmrc
 
 
 echo ""
@@ -90,6 +92,7 @@ echo "* forever"
 echo "* http-server"
 echo "* grunt-cli"
 echo "* npm"
+echo "* npmrc"
 echo "* semantic-release-cli"
 echo "* commitizen"
 echo "========================================="
