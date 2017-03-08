@@ -4,8 +4,6 @@ NPM EasyInstall
 Easy update your node version an run this script to install all foundation
 npm modules.
 
-#####Install Dependencies
-- [Homebrew](http://brew.sh/)
 
 #####Install global modules
 ```bash
