@@ -13,22 +13,23 @@ git clone https://github.com/ifahrentholz/nodesetup && cd nodesetup/ && ./global
 ```
 
 
-#####Install local modules
-```bash
-git clone https://github.com/ifahrentholz/nodesetup && cd nodesetup/ && ./locals.sh
-```
-
-
 #####NPM Packages to be installed
 - eslint
+- eslint-plugin-react
 - csslint
 - jshint
+- typescript
+- typings
 - jasmine
+- karma-cli
 - nodemon
 - forever
+- http-server
 - grunt-cli
-- webpack
 - npm
+- npmrc
+- semantic-release-cli
+- commitizen
 
 
 ######Todo's
