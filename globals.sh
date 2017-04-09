@@ -53,12 +53,14 @@ echo "-----------------------------------------"
 echo "* grunt-cli"
 echo "* npm"
 echo "* npmrc (manage multiple npmrc configs)"
+echo "* angular-cli"
 echo "========================================="
 echo ""
 
 npm i -g grunt-cli
 npm i -g npm
 npm i -g npmrc
+npm i -g @angular/cli
 
 
 echo ""
