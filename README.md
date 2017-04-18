@@ -26,6 +26,7 @@ git clone https://github.com/ifahrentholz/nodesetup && cd nodesetup/ && ./global
 - grunt-cli
 - npm
 - npmrc
+- @angular/cli
 - semantic-release-cli
 - commitizen
 
