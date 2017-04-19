@@ -54,6 +54,8 @@ echo "* grunt-cli"
 echo "* npm"
 echo "* npmrc (manage multiple npmrc configs)"
 echo "* angular-cli"
+echo "* bower"
+echo "* polymer-cli"
 echo "========================================="
 echo ""
 
@@ -61,6 +63,8 @@ npm i -g grunt-cli
 npm i -g npm
 npm i -g npmrc
 npm i -g @angular/cli
+npm i -g bower
+npm i -g polymer-cli
 
 
 echo ""
@@ -96,6 +100,8 @@ echo "* grunt-cli"
 echo "* npm"
 echo "* npmrc"
 echo "* @angular/cli"
+echo "* bower"
+echo "* polymer-cli"
 echo "* semantic-release-cli"
 echo "* commitizen"
 echo "========================================="

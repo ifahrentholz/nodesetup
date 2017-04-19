@@ -27,6 +27,8 @@ git clone https://github.com/ifahrentholz/nodesetup && cd nodesetup/ && ./global
 - npm
 - npmrc
 - @angular/cli
+- bower
+- polymer-cli
 - semantic-release-cli
 - commitizen
 
