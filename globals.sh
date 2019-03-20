@@ -17,6 +17,8 @@ npm i -g csslint
 npm i -g jshint
 npm i -g typescript
 npm i -g typings
+npm i -g snyk
+
 
 
 echo ""
